@@ -1,0 +1,7 @@
+
+
+verificar se o min max scale deve ser feito a dividir sempre pelo maximo,
+uma vez que na amostra o minimo possivel pode nao estar presente.
+isto pode afetar a combinacao das matrizes
+
+ver a documentacao dos metodos init do deap para gerar pesos complementares
